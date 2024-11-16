@@ -24,7 +24,7 @@
 <img src="https://github.com/user-attachments/assets/f31b064a-99e9-4a37-ba70-023feac4daff" alt="Thymeleaf" height=100px width=100px>
 
 ### Backend Development
-<img src="https://github.com/user-attachments/assets/23f836de-b1ce-4f55-bcf4-34092b808898" alt="spring" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/23f836de-b1ce-4f55-bcf4-34092b808898" alt="Spring" height=100px width=100px>
 
 ### Software
 
