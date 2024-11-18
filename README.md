@@ -44,9 +44,10 @@
 
 ## Socials
 - <img src="https://github.com/user-attachments/assets/a28ebcb3-7e76-4cc6-a13f-4ffc534a01e8" alt="GitHub Logo" height=16px width=16px> [Github Profile](https://github.com/Moon-of-Anthracite)
+- <img src="https://github.com/user-attachments/assets/a28ebcb3-7e76-4cc6-a13f-4ffc534a01e8" alt="GitHub Logo" height=16px width=16px> [Github Profile](https://github.com/Moon-of-Anthracite)
 - <img src="https://github.com/user-attachments/assets/4ba9c988-5270-4dc2-82bd-8271a79f1477" alt="GitHub Logo" height=16px width=16px> [Pixiv Profile](https://www.pixiv.net/en/users/91554753)
 
 ## Additional Info
-- ⚡ Apart from my intrerest in software and web development, I'm also interested in drawing comics and illustrations.
-- 👨‍💻 All of my artworks can be found through my Pixiv Profile. If you like what you see, do give it a like and a follow.
+- ⚡ I'm also interested in drawing comics and illustrations.
+- 👨‍💻 All of my artworks can be found through my Pixiv Profile.
 - 👀 If, you'd like to support me, check out my FANBOX [here](https://anthracite-moon.fanbox.cc/).
