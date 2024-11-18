@@ -12,6 +12,7 @@
 <img src="https://github.com/user-attachments/assets/f838a41f-4ede-48bc-b7e7-4b58c09f114e" alt="C" height=100px width=100px>
 <img src="https://github.com/user-attachments/assets/2a18f669-1760-449a-8a25-26b323561f82" alt="C++" height=100px width=100px>
 <img src="https://github.com/user-attachments/assets/4f488c19-db2d-4286-8ab8-b54922585947" alt="Java" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/3348f358-6c96-4ef9-ab89-b488495ea68b" alt="JavaScript" height=100px width=100px>
 
 ### Database
 <img src="https://github.com/user-attachments/assets/8d95d48b-12ca-4113-9fb9-93c88a2005bc" alt="MySQL" height=100px width=100px>
@@ -20,6 +21,7 @@
 ### Front-end Development
 <img src="https://github.com/user-attachments/assets/a1fc8b0e-5a09-43bb-9c34-468fc7e69d80" alt="HTML" height=100px width=100px>
 <img src="https://github.com/user-attachments/assets/9f00ff54-4a11-4abd-b5cc-599b11d79393" alt="CSS" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/221fae95-23d0-4859-b51f-f6fd49a88a35" alt="jQuery" height=100px width=100px>
 <img src="https://github.com/user-attachments/assets/acfe4a56-21db-409e-9ff4-4f4283358357" alt="Bootstrap" height=100px width=100px>
 <img src="https://github.com/user-attachments/assets/f31b064a-99e9-4a37-ba70-023feac4daff" alt="Thymeleaf" height=100px width=100px>
 
@@ -41,6 +43,14 @@
 <img src="https://github.com/user-attachments/assets/b294dd5d-ad37-4f6b-b3b1-661a77be43e6" alt="Jump Paint" height=100px width=100px>
 <img src="https://github.com/user-attachments/assets/22053b11-665a-41b9-aacf-d0c0afa3940a" alt="Krita" height=100px width=100px>
 <img src="https://github.com/user-attachments/assets/af704b0c-9677-49b3-9e40-2303c4c2ef9c" alt="MediBang Paint" height=100px width=100px>
+
+### Additional Skills
+- Java DataBase Connectivity (JDBC)
+- Java/Jakarta Server Pages (JSP)
+- Java/Jakarta Standard Tag Library (JSTL)
+- Java/Jakarta Servlet
+- Hibernate Framework
+- Vaadin Platform
 
 ## Socials
 - <img src="https://github.com/user-attachments/assets/a28ebcb3-7e76-4cc6-a13f-4ffc534a01e8" alt="GitHub Logo" height=16px width=16px> [Github Profile](https://github.com/Moon-of-Anthracite)
