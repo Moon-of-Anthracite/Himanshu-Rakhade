@@ -14,19 +14,21 @@
 <img src="https://github.com/user-attachments/assets/4f488c19-db2d-4286-8ab8-b54922585947" alt="Java" height=100px width=100px>
 <img src="https://github.com/user-attachments/assets/3348f358-6c96-4ef9-ab89-b488495ea68b" alt="JavaScript" height=100px width=100px>
 
-### Database
-<img src="https://github.com/user-attachments/assets/8d95d48b-12ca-4113-9fb9-93c88a2005bc" alt="MySQL" height=100px width=100px>
-<img src="https://github.com/user-attachments/assets/009c568d-a134-42da-8d0f-0220adde72dc" alt="PostgreSQL" height=100px width=100px>
-
 ### Front-end Development
 <img src="https://github.com/user-attachments/assets/a1fc8b0e-5a09-43bb-9c34-468fc7e69d80" alt="HTML" height=100px width=100px>
 <img src="https://github.com/user-attachments/assets/9f00ff54-4a11-4abd-b5cc-599b11d79393" alt="CSS" height=100px width=100px>
 <img src="https://github.com/user-attachments/assets/221fae95-23d0-4859-b51f-f6fd49a88a35" alt="jQuery" height=100px width=100px>
 <img src="https://github.com/user-attachments/assets/acfe4a56-21db-409e-9ff4-4f4283358357" alt="Bootstrap" height=100px width=100px>
 <img src="https://github.com/user-attachments/assets/f31b064a-99e9-4a37-ba70-023feac4daff" alt="Thymeleaf" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/30c92a9f-8841-41ea-9e5f-7c8cc9ae125d" alt="Vaadin" height=100px width=100px>
 
 ### Backend Development
+<img src="https://github.com/user-attachments/assets/73fea45c-4886-4421-8ad2-a4652a4d0dee" alt="Hibernate" height=100px width=100px>
 <img src="https://github.com/user-attachments/assets/23f836de-b1ce-4f55-bcf4-34092b808898" alt="Spring" height=100px width=100px>
+
+### Databases
+<img src="https://github.com/user-attachments/assets/8d95d48b-12ca-4113-9fb9-93c88a2005bc" alt="MySQL" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/009c568d-a134-42da-8d0f-0220adde72dc" alt="PostgreSQL" height=100px width=100px>
 
 ### Software
 
@@ -46,11 +48,9 @@
 
 ### Additional Skills
 - Java DataBase Connectivity (JDBC)
+- Java/Jakarta Servlet
 - Java/Jakarta Server Pages (JSP)
 - Java/Jakarta Standard Tag Library (JSTL)
-- Java/Jakarta Servlet
-- Hibernate Framework
-- Vaadin Platform
 
 ## Socials
 - <img src="https://github.com/user-attachments/assets/a28ebcb3-7e76-4cc6-a13f-4ffc534a01e8" alt="GitHub Logo" height=16px width=16px> [Github Profile](https://github.com/Moon-of-Anthracite)
