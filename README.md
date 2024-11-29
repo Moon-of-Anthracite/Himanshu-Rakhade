@@ -22,7 +22,7 @@
 <img src="https://github.com/user-attachments/assets/f31b064a-99e9-4a37-ba70-023feac4daff" alt="Thymeleaf" height=100px width=100px>
 <img src="https://github.com/user-attachments/assets/30c92a9f-8841-41ea-9e5f-7c8cc9ae125d" alt="Vaadin" height=100px width=100px>
 
-### Backend Development
+### Back-end Development
 <img src="https://github.com/user-attachments/assets/73fea45c-4886-4421-8ad2-a4652a4d0dee" alt="Hibernate" height=100px width=100px>
 <img src="https://github.com/user-attachments/assets/23f836de-b1ce-4f55-bcf4-34092b808898" alt="Spring" height=100px width=100px>
 
