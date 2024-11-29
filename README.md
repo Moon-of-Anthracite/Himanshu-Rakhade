@@ -14,7 +14,7 @@
 <img src="https://github.com/user-attachments/assets/4f488c19-db2d-4286-8ab8-b54922585947" alt="Java" height=100px width=100px>
 <img src="https://github.com/user-attachments/assets/3348f358-6c96-4ef9-ab89-b488495ea68b" alt="JavaScript" height=100px width=100px>
 
-### Front-end Development
+### Front-End Development
 <img src="https://github.com/user-attachments/assets/a1fc8b0e-5a09-43bb-9c34-468fc7e69d80" alt="HTML" height=100px width=100px>
 <img src="https://github.com/user-attachments/assets/9f00ff54-4a11-4abd-b5cc-599b11d79393" alt="CSS" height=100px width=100px>
 <img src="https://github.com/user-attachments/assets/221fae95-23d0-4859-b51f-f6fd49a88a35" alt="jQuery" height=100px width=100px>
@@ -22,7 +22,7 @@
 <img src="https://github.com/user-attachments/assets/f31b064a-99e9-4a37-ba70-023feac4daff" alt="Thymeleaf" height=100px width=100px>
 <img src="https://github.com/user-attachments/assets/30c92a9f-8841-41ea-9e5f-7c8cc9ae125d" alt="Vaadin" height=100px width=100px>
 
-### Back-end Development
+### Back-End Development
 <img src="https://github.com/user-attachments/assets/73fea45c-4886-4421-8ad2-a4652a4d0dee" alt="Hibernate" height=100px width=100px>
 <img src="https://github.com/user-attachments/assets/23f836de-b1ce-4f55-bcf4-34092b808898" alt="Spring" height=100px width=100px>
 
