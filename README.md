@@ -47,6 +47,12 @@
 <img src="https://github.com/user-attachments/assets/af704b0c-9677-49b3-9e40-2303c4c2ef9c" alt="MediBang Paint" height=100px width=100px>
 
 ### Additional Skills
+
+#### Languages
+- Extensible Markup Language (XML)
+- Extensible HyperText Markup Language (XHTML)
+
+#### Technologies
 - Java DataBase Connectivity (JDBC)
 - Java/Jakarta Servlet
 - Java/Jakarta Server Pages (JSP)
