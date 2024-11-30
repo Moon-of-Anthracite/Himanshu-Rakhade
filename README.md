@@ -48,15 +48,19 @@
 
 ### Additional Skills
 
+#### Database Tools
+- Java DataBase Connectivity (JDBC)
+- Structured Query Language (SQL)
+
 #### Languages
+- Markdown Language
 - Extensible Markup Language (XML)
 - Extensible HyperText Markup Language (XHTML)
 
 #### Technologies
-- Java DataBase Connectivity (JDBC)
 - Java/Jakarta Servlet
 - Java/Jakarta Server Pages (JSP)
-- Java/Jakarta Standard Tag Library (JSTL)
+- Java/Jakarta/JSP Standard Tag Library (JSTL)
 
 ## Socials
 - <img src="https://github.com/user-attachments/assets/a28ebcb3-7e76-4cc6-a13f-4ffc534a01e8" alt="GitHub Logo" height=16px width=16px> [Github Profile](https://github.com/Moon-of-Anthracite)
