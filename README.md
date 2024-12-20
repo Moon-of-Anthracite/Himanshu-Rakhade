@@ -63,7 +63,7 @@
 - Java/Jakarta/JSP Standard Tag Library (JSTL)
 
 ## Socials
-- <img src="https://github.com/user-attachments/assets/a28ebcb3-7e76-4cc6-a13f-4ffc534a01e8" alt="GitHub Logo" height=16px width=16px> [Github Profile](https://github.com/Moon-of-Anthracite)
+- <img src="https://github.com/user-attachments/assets/a28ebcb3-7e76-4cc6-a13f-4ffc534a01e8" alt="GitHub Logo" height=16px width=16px> [GitHub Profile](https://github.com/Moon-of-Anthracite)
 - <img src="https://github.com/user-attachments/assets/1cadb761-1443-4450-bd87-443a35eb370a" alt="LinkedIn Logo" height=16px width=16px> [LinkedIn Profile](https://in.linkedin.com/in/himanshu-rakhade)
 - <img src="https://github.com/user-attachments/assets/4ba9c988-5270-4dc2-82bd-8271a79f1477" alt="Pixiv Logo" height=16px width=16px> [Pixiv Profile](https://www.pixiv.net/en/users/91554753)
 - <img src="https://github.com/user-attachments/assets/2fcb2b4e-a9f5-45ce-b091-e2ee8970a9f4" alt="Fanbox Logo" height=16px width=16px> [FANBOX Profile](https://anthracite-moon.fanbox.cc/)
@@ -71,4 +71,3 @@
 ## Additional Info
 - ⚡ I'm also interested in drawing comics and illustrations.
 - 👨‍💻 All of my artworks can be found through my Pixiv Profile.
-- 👀 If you'd like to support me, check out my FANBOX Profile.
