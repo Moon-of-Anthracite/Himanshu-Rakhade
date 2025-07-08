@@ -1,52 +1,42 @@
 # Himanshu Rakhade
 
 ## Introduction
-- 👋 Hi, my name is Himanshu Rakhade. I am an aspiring artist and developer.
-- 👀 I am interested in creating art as well as software &/or web development.
-- 🌱 Currently, I am learning Python, Artificial Intelligence and Machine Learning.
+- 👋 Hi, my name is Himanshu Rakhade. I am an artist and developer from India.
+- 👀 I'm interested in Art, Data Science, AI/ML, and Software/Web Development.
+- 🌱 Currently, I am specializing in Data Science, AI/ML, AWS Cloud and DevOps.
 - 👨‍💻 All of my past, current &/or future projects will be available [here](https://github.com/Moon-of-Anthracite?tab=repositories) on GitHub.
 
 ## Skills
 
-### Languages
-<img src="https://github.com/user-attachments/assets/14da9c5a-1f89-49fa-b47b-cdc1e5e7364d" alt="C" title="C" height=100px width=100px>
-<img src="https://github.com/user-attachments/assets/5f27172b-11f2-4d43-b469-49a0741230d7" alt="C++" title="C++" height=100px width=100px>
-<img src="https://github.com/user-attachments/assets/79fc369e-8351-49bc-b8a5-c25ff5ce70d5" alt="Java" title="Java" height=100px width=100px>
-<img src="https://github.com/user-attachments/assets/fd1d7a70-0ba1-4cb3-ab8f-415a3c1f30a4" alt="Python" title="Python" height=100px width=100px>
+### Programming Languages
+<img src="https://github.com/user-attachments/assets/b8663bfd-837d-42f8-b122-1c7b7ab7fdde" alt="C" title="C" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/cfab545b-8acf-4c96-826e-079441e352ae" alt="C++" title="C++" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/ca244021-f32a-4279-841d-3294db538d36" alt="Java" title="Java" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/ccd10506-4a5f-4e01-ba5c-efb528471e4a" alt="Python" title="Python" height=100px width=100px>
 
 ### Front-End Development
-<img src="https://github.com/user-attachments/assets/0fb5c5fc-c7f8-4b0c-a2cb-18cfc8d3fa39" alt="HTML" title="HTML" height=100px width=100px>
-<img src="https://github.com/user-attachments/assets/c2e0b431-99d0-4a34-b6f3-dd46b196cd17" alt="CSS" title="CSS" height=100px width=100px>
-<img src="https://github.com/user-attachments/assets/6fb926cc-27b2-4967-9871-453a3e7bab3f" alt="Bootstrap" title="Bootstrap" height=100px width=100px>
-<img src="https://github.com/user-attachments/assets/74036b38-65b5-49f0-869c-94659c67c001" alt="jQuery" title="jQuery" height=100px width=100px>
-<img src="https://github.com/user-attachments/assets/5f04e6fb-3692-4f85-8607-9c90e00677b2" alt="Thymeleaf" title="Thymeleaf" height=100px width=100px>
-<img src="https://github.com/user-attachments/assets/41f30b52-e571-44b2-abb8-0dd90013ef08" alt="Vaadin" title="Vaadin" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/16a7b8dc-9f3e-4d6b-b223-096d68f3689d" alt="HTML" title="HTML" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/483d7a8e-24fb-47c1-8525-60df57d80463" alt="CSS" title="CSS" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/edb84de3-126d-453a-a2a2-791eb274c05c" alt="Bootstrap" title="Bootstrap" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/1723f173-1131-4767-b22c-3b5b371235fc" alt="jQuery" title="jQuery" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/47345808-b9c0-4942-bf60-d7c74d921199" alt="Thymeleaf" title="Thymeleaf" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/e5c25404-c2c2-4863-9cef-3c7898a19dcf" alt="Vaadin" title="Vaadin" height=100px width=100px>
 
 ### Back-End Development
-<img src="https://github.com/user-attachments/assets/d931e1b3-9e97-4567-ac51-1e186f243b04" alt="Jakarta EE" title="Jakarta EE" height=100px width=100px>
-<img src="https://github.com/user-attachments/assets/af886e96-c1e9-433b-be8d-26375deb1166" alt="Hibernate Framework" title="Hibernate Framework" height=100px width=100px>
-<img src="https://github.com/user-attachments/assets/35690548-149c-4590-a3e6-cd8c79f9f618" alt="Spring Framework" title="Spring Framework" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/531a1281-a2d0-4b3f-9fca-57b2dc94e2dd" alt="Jakarta EE" title="Jakarta EE" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/f246432d-7b2f-4a5e-a3af-71ba925b3a94" alt="Hibernate Framework" title="Hibernate Framework" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/a2231f16-4d58-452c-9082-98197437d06b" alt="Spring Framework" title="Spring Framework" height=100px width=100px>
 
-### Databases
-<img src="https://github.com/user-attachments/assets/78bce5b4-6b06-4729-9d7f-8479a839b328" alt="MySQL Database" title="MySQL Database" height=100px width=100px>
-<img src="https://github.com/user-attachments/assets/8d8e22c7-2dec-4d9d-9214-a7c5d8844348" alt="PostgreSQL Database" title="PostgreSQL Database" height=100px width=100px>
-<img src="https://github.com/user-attachments/assets/176fc28a-c1f3-423c-906b-bcb175a13a54" alt="Snowflake Cloud Database" title="Snowflake Cloud Database" height=100px width=100px>
+### Relational Database Management Systems
+<img src="https://github.com/user-attachments/assets/22721a2b-bfc2-4561-8888-d44437feca17" alt="MySQL Database" title="MySQL Database" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/a992ab8e-44b7-4d0c-8868-86ed69268834" alt="PostgreSQL Database" title="PostgreSQL Database" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/f993e06a-e2e9-4a77-8cba-a21371c09568" alt="Snowflake Cloud Database" title="Snowflake Cloud Database" height=100px width=100px>
 
-### Software
-
-#### Code Editors & IDEs
-<img src="https://github.com/user-attachments/assets/eabfff9a-3b7a-45b8-990d-88c2354f2a7d" alt="Eclipse" title="Eclipse" height=100px width=100px>
-<img src="https://github.com/user-attachments/assets/2a3c893c-f657-4cbd-9a1d-f50c5c48e7c0" alt="IntelliJ Idea" title="IntelliJ Idea" height=100px width=100px>
-<img src="https://github.com/user-attachments/assets/df4a64f8-08aa-4e3d-abc3-6d706da5fbfb" alt="Visual Studio" title="Visual Studio" height=100px width=100px>
-<img src="https://github.com/user-attachments/assets/b55d0aa1-2a06-4182-8388-6cc0fba88929" alt="Visual Studio Code" title="Visual Studio Code" height=100px width=100px>
-
-#### Graphics Editors
-<img src="https://github.com/user-attachments/assets/08162639-06bb-48da-a802-9974051398e5" alt="Adobe Illustrator" title="Adobe Illustrator" height=100px width=100px>
-<img src="https://github.com/user-attachments/assets/a8da00fd-73f5-4ad0-abee-9fc62a9169c8" alt="Adobe Photoshop" title="Adobe Photoshop" height=100px width=100px>
-<img src="https://github.com/user-attachments/assets/f7ed3f2e-b226-4a0c-8296-e85eabb0a594" alt="Clip Studio Paint" title="Clip Studio Paint" height=100px width=100px>
-<img src="https://github.com/user-attachments/assets/2b0184f0-dd2e-4f39-8ac1-8e6d1c398e85" alt="Jump Paint" title="Jump Paint" height=100px width=100px>
-<img src="https://github.com/user-attachments/assets/0007c258-dd26-4842-8491-df9def856594" alt="Krita" title="Krita" height=100px width=100px>
-<img src="https://github.com/user-attachments/assets/b2561fd4-6823-4423-9221-73678842a693" alt="MediBang Paint" title="MediBang Paint" height=100px width=100px>
+### Version Control Systems & DevOps
+<img src="https://github.com/user-attachments/assets/71ebcf03-c73f-4303-8569-9ab8b983d036" alt="Git" title="Git" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/4beef3ca-5335-44f4-be52-9a7c731b4e47" alt="GitHub" title="GitHub" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/59a7e405-f493-42fd-ba50-93abaaebd8a6" alt="GitHub" title="GitLab" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/d738f370-0302-4ed3-88de-01e56a1b135f" alt="Docker" title="Docker" height=100px width=100px>
 
 ### Additional Skills
 
@@ -54,19 +44,58 @@
 - Markdown Language
 - Structured Query Language
 
-#### Technologies
+#### Java Web Technologies
+- Java DataBase Connectivity (JDBC)
 - Java/Jakarta Servlet
-- Java/Jakarta Server Pages
-- Java/Jakarta/JSP Standard Tag Library
-- Java DataBase Connectivity
-- Data Structures & Algorithms
+- Java/Jakarta Server Pages (JSP)
+- Java/Jakarta Standard Tag Library (JSTL)
+
+#### AI/ML & Data Science Tools
+
+##### Python Libraries
+- Beautiful Soup
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
+- Keras
+
+##### Supervised ML Models
+- Classification
+- Regression
+
+##### Tools & Techniques
+- Jupyter Notebook
+- NLP (Natural Language Processing)
+
+## Software
+
+#### Code Editors & IDEs
+<img src="https://github.com/user-attachments/assets/0559d3ed-ff9b-40b5-a407-b23b4c0194cf" alt="Eclipse" title="Eclipse" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/8fa4aa0e-1e3e-4826-bf49-985dd6c78817" alt="IntelliJ Idea" title="IntelliJ Idea" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/d4097aaf-0e61-438c-a13a-c84b5f6e4ecb" alt="Visual Studio" title="Visual Studio" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/17b00a3f-57c3-476a-b206-a85cdeaef069" alt="Visual Studio Code" title="Visual Studio Code" height=100px width=100px>
+
+#### Graphics Editors
+<img src="https://github.com/user-attachments/assets/912e15a8-40cd-4346-b124-a9bbe001f262" alt="Adobe Illustrator" title="Adobe Illustrator" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/98d7d0b4-c8ed-40ac-ab14-1886eb9c1b69" alt="Adobe Photoshop" title="Adobe Photoshop" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/78b1e91b-4830-4c7c-a13f-a90c978e30fb" alt="Clip Studio Paint" title="Clip Studio Paint" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/813f7a49-c4cc-47c4-bd08-523525fa7879" alt="Jump Paint" title="Jump Paint" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/2c36203f-0472-452a-a5e0-5641b09c7019" alt="Krita" title="Krita" height=100px width=100px>
+<img src="https://github.com/user-attachments/assets/b7911c29-2645-41bb-b5a1-ccbefff27e9b" alt="MediBang Paint" title="MediBang Paint" height=100px width=100px>
+
+### Additional Software
+
+#### Office Apps & Dev Tools
+- Bash (Unix Shell)
+- Microsoft Office
+
+#### Accounting Tools
+- Tally.ERP 9
+- TallyPrime
 
 ## Socials
-- <img src="https://github.com/user-attachments/assets/757276c2-cd36-4bb0-89c1-5f3b1e976c46" alt="GitHub" title="GitHub" height=16px width=16px> [GitHub Profile](https://github.com/Moon-of-Anthracite)
-- <img src="https://github.com/user-attachments/assets/afb8604e-a059-4e62-8394-c52033c04c06" alt="LinkedIn" title="LinkedIn" height=16px width=16px> [LinkedIn Profile](https://in.linkedin.com/in/himanshu-rakhade)
-- <img src="https://github.com/user-attachments/assets/53cc7e92-8152-4ac0-af74-44a4a727b5d8" alt="Pixiv" title="Pixiv" height=16px width=16px> [Pixiv Profile](https://www.pixiv.net/en/users/91554753)
-- <img src="https://github.com/user-attachments/assets/58f515eb-19f5-4cb2-ab11-c2758852318a" alt="Fanbox" title="Fanbox" height=16px width=16px> [FANBOX Profile](https://anthracite-moon.fanbox.cc/)
-
-## Additional Info
-- ⚡ I'm also interested in creating comics and manga as well as animations.
-- 👨‍💻 All of my artworks and illustrations can be found through my Pixiv Profile.
+- <img src="https://github.com/user-attachments/assets/d4f43167-1987-4c63-95e0-ddb15bc24441" alt="GitHub" title="GitHub" height=16px width=16px> [GitHub Profile](https://github.com/Moon-of-Anthracite)
+- <img src="https://github.com/user-attachments/assets/d598ca8a-ac85-47f3-81fb-6f3b53fc6198" alt="LinkedIn" title="LinkedIn" height=16px width=16px> [LinkedIn Profile](https://in.linkedin.com/in/himanshu-rakhade)
+- <img src="https://github.com/user-attachments/assets/7b25cb08-da31-4b01-9683-fda8ff80c902" alt="Pixiv" title="Pixiv" height=16px width=16px> [Pixiv Profile](https://www.pixiv.net/en/users/91554753)
+- <img src="https://github.com/user-attachments/assets/a33a6f23-7c75-41fb-bf30-cc2e387348b3" alt="Fanbox" title="Fanbox" height=16px width=16px> [FANBOX Profile](https://anthracite-moon.fanbox.cc/)
